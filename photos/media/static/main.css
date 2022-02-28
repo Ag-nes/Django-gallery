@@ -5,7 +5,7 @@ body{
     padding:0px;
     margin:0px;
     box-sizing: border-box;
-    background-color: sienna;
+    background-color: #100B00;
     overflow-x: hidden;
 
 }
@@ -35,7 +35,7 @@ p{
   }
 
 .dropdown-item:hover{
-    background-color: #655F4F;
+    background-color: #sienna;
     color: rgb(92, 212, 44);
     text-decoration: underline;
 }
