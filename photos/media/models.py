@@ -1,7 +1,11 @@
 from django.db import models
 from cloudinary.models import CloudinaryField
 
+
 # Create your models here.
+class Photo(models.Model):
+    image = CloudinaryField('image')
+
 
 class Location(models.Model):
     name = models.CharField(max_length=30)
@@ -55,4 +59,3 @@ class Image(models.Model):
 
     class Meta:
         ordering = ['date']
-

@@ -4,7 +4,6 @@ from .models import Location, Category, Image
 from django.core.exceptions import ObjectDoesNotExist
 
 
-
 # def index(request):
 #     return HttpResponse("Hello, world. You're at the media section.")
 
