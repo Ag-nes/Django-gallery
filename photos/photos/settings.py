@@ -143,4 +143,6 @@ cloudinary.config(
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
+CLOUDINARY_URL = 'cloudinary://935527415496544:O5r-EoiGODmOBjyuR88qahgCZfc@ag-nes254'
+
 

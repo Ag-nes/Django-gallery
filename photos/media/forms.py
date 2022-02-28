@@ -13,10 +13,10 @@ CATEGORIES = (
     ("1", "Cars"),
     ("2", "Food"),
     ("3", "Travel"),
-    ("4", "People"),
+    ("4", "Moringa"),
     ("5", "Animals"),
     ("6", "Nature"),
-    ("7", "Sports"),
+    ("7", "Education"),
 )
 
 

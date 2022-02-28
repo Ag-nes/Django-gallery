@@ -22,8 +22,8 @@ class Category(models.Model):
 
 
 class Image(models.Model):
-    # image = CloudinaryField('image')
-    image = models.ImageField(upload_to="auctions/images/", default="")
+    image = CloudinaryField('image')
+    # image = models.ImageField(upload_to="auctions/images/", default="")
     image_name = models.CharField(max_length=40)
     description = models.TextField()
     date = models.DateTimeField(auto_now_add=True)
