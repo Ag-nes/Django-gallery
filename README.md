@@ -100,3 +100,7 @@ If you find a bug, kindly feel free to comment an issue here and inlcude their c
 * Contact Number:+254790279917
   
 * E-Mail: faithagnes2@gmail.com.
+
+## Licence
+* MIT License:
+* Copyright (c)2022 Nafula Okutoyi
